@@ -26,5 +26,5 @@ The model was trained on the classic MNIST dataset and achieved a **97.19% accur
 The network successfully generalizes the handwriting patterns, achieving:
 
 * Rapid convergence due to the custom Adam implementation.
-
-*(Add your Matplotlib Loss/Accuracy graph screenshot here)*
+![kaggle score](kaggle_score.png)
+![loss, accuracy graph](graph.png)
